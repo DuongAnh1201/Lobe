@@ -1,5 +1,7 @@
 # Lobe
 
+Check it out right here 👉 <a href="https://devpost.com/software/lobe" target="_blank" rel="noopener noreferrer">Devpost</a>
+
 Lobe turns real brain MRIs into 3D models you can turn, slice and study together, then lets you practice on the same scans with quick games.
 
 Upload a brain MRI (4 standard sequences) and a pretrained AI model (MONAI SegResNet) segments the tumor. Study the case in linked 2D slices and a 3D brain, invite others into a live review room with voice, chat, notes and a shared whiteboard, ask a Claude-powered assistant about what you are looking at, and get a session report by email when the meeting ends.
